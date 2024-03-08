@@ -5,5 +5,5 @@ interface ToCLinkProps {
 }
 
 export function ToCLink(props: ToCLinkProps) {
-  return <a href="#" className="hover:text-rotion-50" {...props} />
+  return <a href="#" className="hover:text-docwise-50" {...props} />
 }

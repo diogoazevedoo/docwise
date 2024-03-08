@@ -1,3 +1,3 @@
 export function Separator() {
-  return <span className="text-rotion-500">/</span>
+  return <span className="text-docwise-500">/</span>
 }
